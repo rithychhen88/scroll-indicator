@@ -1,4 +1,4 @@
-scroll-indicator
+Scrollbar Indicator
 ================
 
 Scrollbar Indicator is useful for lengthy webpages. It helps indentifying the current location on a giving page. The Scrollbar Indicator can also be used to navigate through the content of a page. It is really simple to set up.
@@ -7,8 +7,8 @@ Scrollbar Indicator is useful for lengthy webpages. It helps indentifying the cu
 
 Scrollbar Indicator requires the following libraries:
 
-The latest Jquery, which you can download from [here](http://jquery.com/).
-The latest jqueryUI, you can download from [here](http://jqueryui.com/).
+1. The latest Jquery, which you can download from [here](http://jquery.com/).
+2. The latest jqueryUI, you can download from [here](http://jqueryui.com/).
 
 ##Getting started
 
