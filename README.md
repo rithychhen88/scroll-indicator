@@ -12,7 +12,7 @@ Scrollbar Indicator requires the following libraries:
 
 ##Getting started
 
-Download the latest code from [here](http://example.com).
+Download the latest code from [here](https://github.com/rithychhen88/scroll-indicator).
 
 ##How to use Scrollbar Indicator
 
